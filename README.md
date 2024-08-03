@@ -2,6 +2,10 @@
 
 This repository contains two Python scripts for simulating a Distributed Denial of Service (DDoS) attack and for running a rate-limited server to test defenses against such attacks. 
 
+# Try it on your own risk I am not for blame.
+
+# Use Administrator mode of command prmpts for running the commands only.
+
 ## Overview
 
 1. **Rate-Limited Server (`rate_limited_server.py`)**:
@@ -25,8 +29,8 @@ This repository contains two Python scripts for simulating a Distributed Denial 
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/your-repository.git
-   cd your-repository
+   git clone https://github.com/NJ120903/D-DOS.git
+   cd DDOS
    ```
 2. Install required packages:
    ```bash
