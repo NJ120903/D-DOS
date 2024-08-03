@@ -33,9 +33,9 @@ This repository contains two Python scripts for simulating a Distributed Denial 
    pip install flask requests
    ```
 
-```bash
-python rate_limited_server.py
-```
+   ```bash
+   python rate_limited_server.py
+   ```
 You will be prompted to enter the port number for the server. For example, enter 8080 to use port 8080.
 
 # Running the DDoS Simulation
